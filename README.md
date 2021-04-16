@@ -1,2 +1,2 @@
 # clone-netflix
-Clonando interface do NETFLIX
+Clonando interface do NETFLIX com filmes da MARVEL.
